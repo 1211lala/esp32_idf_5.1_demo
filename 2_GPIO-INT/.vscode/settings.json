@@ -1,0 +1,15 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM8",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "bspled.h": "c",
+    "stdio.h": "c",
+    "common.h": "c",
+    "freertos.h": "c",
+    "bspkey.h": "c",
+    "p_exti.h": "c",
+    "complex": "c"
+  }
+}

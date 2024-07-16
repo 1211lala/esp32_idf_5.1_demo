@@ -1,0 +1,13 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "email": "john.doe@example.com",
+    "is_student": false,
+    "grades": [
+        85,
+        92,
+        78,
+        90
+    ]
+}

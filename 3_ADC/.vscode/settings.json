@@ -1,0 +1,23 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM5",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "bspled.h": "c",
+    "stdio.h": "c",
+    "common.h": "c",
+    "freertos.h": "c",
+    "bspkey.h": "c",
+    "p_exti.h": "c",
+    "complex": "c",
+    "string.h": "c",
+    "soc_caps.h": "c",
+    "adc_oneshot.h": "c",
+    "adc_cali_scheme.h": "c",
+    "gpio.h": "c",
+    "esp_log.h": "c",
+    "p_adc.h": "c",
+    "queue.h": "c"
+  }
+}
